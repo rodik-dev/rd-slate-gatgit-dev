@@ -4,9 +4,31 @@ sections:
   - type: hero_section
     title: This Is A Big Hero Headline
     subtitle: Optional hero section subtitle
-    content: >-
+    content: >+
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
+
+
+      new p
+
+
+      ## h2
+
+
+      asdf**dfsg*sfgh*jghf**sdfa
+
+
+      *   asdf
+
+
+      *   fdsg
+
+
+      *   hf
+
+
+      asdfas asdf [asdf](www.google.com) a
+
     actions:
       - label: Try Free
         url: /pricing
