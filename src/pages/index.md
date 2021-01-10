@@ -9,13 +9,13 @@ sections:
 
       Paragraph here with [link](www.google.com).
 
-      *   Bullet list with 
+      *   Bullet list with
 
           *Itallic*
 
       *   **Bold list item**
 
-      Final p for *good* measure
+      Final p for *good **mea**sure*
     actions:
       - label: Try Free
         url: /pricing
