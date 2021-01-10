@@ -15,7 +15,7 @@ sections:
 
       *   **Bold list item**
 
-      Final p for *good **mea**sure yo*
+      Final p for *good **mea**sure yo x*
     actions:
       - label: Try Free
         url: /pricing
