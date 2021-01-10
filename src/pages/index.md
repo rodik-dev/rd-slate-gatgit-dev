@@ -9,7 +9,9 @@ sections:
 
       Paragraph here with [link](www.google.com).
 
-      *   Bullet list with Itallic
+      *   Bullet list with 
+
+          *Itallic*
 
       *   **Bold list item**
 
