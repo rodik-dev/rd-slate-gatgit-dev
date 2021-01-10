@@ -9,6 +9,12 @@ sections:
 
       Paragraph here with [link](www.google.com).
 
+      *   Paragraph
+
+      *   Bullet list with
+
+      <!---->
+
       *   Bullet list with
 
           *Itallic*
