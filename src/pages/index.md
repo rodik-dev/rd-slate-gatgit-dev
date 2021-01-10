@@ -4,35 +4,16 @@ sections:
   - type: hero_section
     title: This Is A Big Hero Headline
     subtitle: Optional hero section subtitle
-    content: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      ## H2 title
 
+      Paragraph here with [link](www.google.com).
 
-      new p
+      *   Bullet list with Itallic
 
+      *   **Bold list item**
 
-      ## h2
-
-
-      asdf**dfsg*sfgh*jghf**sdfa
-
-
-      *   asdf
-
-
-      *   fdsg
-
-
-      *   hf
-
-
-      asdfas asdf [asdf](www.google.com) a
-
-
-
-
-      ![](/images/about-5.jpg)
+      Final p for good measure
     actions:
       - label: Try Free
         url: /pricing
