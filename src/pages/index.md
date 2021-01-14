@@ -4,22 +4,33 @@ sections:
   - type: hero_section
     title: This Is A Big Hero Headline
     subtitle: Optional hero section subtitle
-    content: |
+    content: >
       ## H2 title
+
+
+
+
+      ![](https://preview--rd-slate-gatgit-dev-60975.staging.stackbit.dev/images/classic/hero.png)
+
 
       Paragraph here with [link](www.google.com).
 
+
       *   Paragraph
+
 
       *   Bullet list with
 
+
       <!---->
+
 
       *   Bullet list with
 
           *Itallic*
 
       *   **Bold list item**
+
 
       Final p for *good **mea**sure yo x*
     actions:
