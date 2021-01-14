@@ -8,26 +8,17 @@ sections:
       ## H2 title
 
 
-
-
       ![](https://preview--rd-slate-gatgit-dev-60975.staging.stackbit.dev/images/classic/hero.png)
 
 
       Paragraph here with [link](www.google.com).
 
 
-      *   Paragraph
-
-
-      *   Bullet list with
+      *   Parag
 
 
       <!---->
 
-
-      *   Bullet list with
-
-          *Itallic*
 
       *   **Bold list item**
 
